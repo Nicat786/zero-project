@@ -1,0 +1,27 @@
+
+
+
+
+.loginEnter{
+	background-color: #222222;
+}
+
+.loginEnter .col-md-5{
+	border-radius: 20px;
+	margin-top: 50px;
+	background: #8B0530;
+}
+.loginEnter .btn{
+	margin-bottom: 20px;
+}
+.loginEnter p{
+	color: white;
+}
+.loginEnter h2{
+	color: white;
+}
+.loginEnter .btn{
+	background: #8B0530;
+	border:none;
+}
+
